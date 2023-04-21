@@ -4,7 +4,7 @@ Project Blind is a device designed to help visually impaired individuals navigat
 
 This repository contains all the code and documentation required to build and operate the Project Blind device. It also includes sample code for interfacing with the device's APIs, allowing developers to build custom applications and integrations.
 
-#Getting Started
+# Getting Started
 
 To get started with Project Blind, please follow the instructions in the Requirements.txt file to set up your development environment and install the necessary software and libraries.
 
